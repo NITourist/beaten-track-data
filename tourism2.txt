@@ -1,0 +1,192 @@
+museumsarts= [
+    {
+        'id': 1,
+        'name': "Titanic Belfast",
+        'rating': 4.2,
+        'stars': 4,
+        'price': ££
+        'location': {
+            'lat': 54.6081062,
+            'lon': -5.9099325,
+            'distance': 3.2
+        },
+        'address': "1 Olympic Way, Queens Road, Titanic Quarter, Belfast BT3 9EP ",
+        'description': "The one-hour tour provides an opportunity to walk in the footsteps of the men who built RMS Titanic, the world's most famous ship, in Belfast's historic shipyard. ",
+        'location_text': "Titanic Belfast is a visitor attraction and a monument to Belfast's maritime heritage on the site of the former Harland & Wolff shipyard in the city's Titanic Quarter where the RMS Titanic was built.",
+        'thumb': "assets/img/hotel/thumb/titanic.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Value for Money",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 2,
+        'name': "Ulster Museum",
+        'rating': 4.2,
+        'stars': 4,
+        'price': ££
+        'location': {
+            'lat': 54.582222,
+            'lon': -5.9356014,
+            'distance': 3.2
+        },
+        'address': "Botanic Gardens, Belfast BT9 5AB",
+        'description': "Come face to face with dinosaurs, meet an Egyptian Mummy and see modern masterpieces with a visit to the Ulster Museum ",
+        'location_text': "The Ulster Museum, located in the Botanic Gardens in Belfast, has around 8,000 square metres of public display space, featuring material from the collections of fine art and applied art, archaeology, ethnography, treasures from the Spanish Armada, local history, numismatics, industrial archaeology, botany, zoology and geology ",
+        'thumb': "assets/img/hotel/thumb/ulster.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 3,
+        'name': "SS Nomadic",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.6065098,
+            'lon': -5.9109945,
+            'distance': 3.2
+        },
+        'address': "Hamilton Dock, Queens Rd, Belfast BT3 9DT",
+        'description': "Maritime museum aboard the storied ship built to carry 1st- & 2nd-class passengers to the Titanic. ",
+        'location_text': "The SS Nomadic - Tender to the Titanic and the last remaining White Star Line ship in the world! Restored to her original glory and back home in Belfast’s historic Hamilton Dock. Come on board and experience over 100 years of authentic maritime and social history. ",
+        'thumb': "assets/img/hotel/thumb/nomadic.png",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 4,
+        'name': "Linenhall Library",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.5975558,
+            'lon': -5.9316646,
+            'distance': 3.2
+        },
+        'address': "17 Donegall Square N, Belfast BT1 5GB ",
+        'description': "It is the oldest library in Belfast and the last subscribing library in Northern Ireland. ",
+        'location_text': "The Linen Hall Library is one of Northern Ireland’s most important cultural powerhouses. Since 1788 it has been home to many internationally renowned collections as well as operating as a modern, fully-functioning library. There is also a gift and coffee shop, and a packed calendar of cultural events for all age groups. ",
+        'thumb': "assets/img/hotel/thumb/linenhall.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 5,
+        'name': "The Mac Belfast",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.603576,
+            'lon': -5.927396,
+            'distance': 3.2
+        },
+        'address': "10 Exchange St, Belfast BT1 2LS ",
+        'description': "Belfast's home of international art exhibitions, the best live theatre, top shows and events, and all manner of weird and wonderful goings-on.",
+        'location_text': "Arts performances from comedy to dance, plus talks and workshops in a contemporary culture centre. ",
+        'thumb': "assets/img/hotel/thumb/mac.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    }
+]

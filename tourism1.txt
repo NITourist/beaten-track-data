@@ -1,0 +1,192 @@
+restuarantsbars= [
+    {
+        'id': 1,
+        'name': "The Crown Bar",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £
+        'location': {
+            'lat': 54.5946781,
+            'lon': -5.9340865,
+            'distance': 3.2
+        },
+        'address': "46 Great Victoria St, Belfast BT2 7BA ",
+        'description': "Carved-mahogany booths, etched-glass, plus gas lamps feature in an 1820's pub, famed for its decor. ",
+        'location_text': "Built to accommodate the pub's more reserved customers during the austere Victorian period, the snugs feature the original gun metal plates for striking matches and an antique bell system for alerting staff. Extra privacy was then afforded by the pub's etched and stained glass windows. See if you can see the fairies, pineapples, fleurs-de-lis and clowns.",
+        'thumb': "assets/img/hotel/thumb/crown.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 2,
+        'name': "The Duke of York",
+        'rating': 4.2,
+        'stars': 4,
+        'price': ££
+        'location': {
+            'lat': 54.60191,
+            'lon': -5.927573,
+            'distance': 3.2
+        },
+        'address': "7-11 Commercial Ct, Belfast BT1 2NB",
+        'description': "Nestled along a narrow cobbled alleyway in the historic Half Bap area, the Duke offers a traditional Belfast welcome of craic, music and humour in contrast to the modern fashionable establishments currently blowing into the surrounding streets. ",
+        'location_text': "The Duke of York is located along the cobbled entry Commercial Court, which is not the easiest place to find, but one of the oldest streets in Belfast. ",
+        'thumb': "assets/img/hotel/thumb/duke.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 3,
+        'name': "Mourne Seafood Bar",
+        'rating': 4.2,
+        'stars': 4,
+        'price': FREE,
+        'location': {
+            'lat': 54.5995426,
+            'lon': -5.9323827,
+            'distance': 3.2
+        },
+        'address': "34-36 Bank St, Belfast BT1 1HL ",
+        'description': "Exposed brick decor and wooden tables in a bustling seafood restaurant and oyster bar with real ale. ",
+        'location_text': "Mourne Seafood Bar Belfast is a restaurant situated in Bank Square offering high quality freshly caught seafood in Belfast, Northern Ireland",
+        'thumb': "assets/img/hotel/thumb/mourne.png",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 4,
+        'name': "Mollys Yard",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.585618,
+            'lon': -5.9321262,
+            'distance': 3.2
+        },
+        'address': "59-63 Botanic Ave, Belfast BT7 1LN ",
+        'description': "Compact courtyard restaurant in a converted Victorian stables, serving modern Irish cuisine. ",
+        'location_text': "Located in the heart of Queen's University Quarter, Molly's Yard is a Belfast restaurant with such a disarmingly relaxed and familiar charm that once inside you feel far from the madding crowd. Molly’s Yard is housed in the converted Victorian stables and courtyard of College Green House and serves superior but unpretentious Modern Irish cuisine. ",
+        'thumb': "assets/img/hotel/thumb/molly.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 5,
+        'name': "John Hewitt Bar",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.6019654,
+            'lon': -5.9285778,
+            'distance': 3.2
+        },
+        'address': "51 Donegall St, Belfast BT1 2FH  ",
+        'description': "This old-world pub offers real ales and gastropub fare, plus regular live, traditional Irish music.",
+        'location_text': "The bar is unique in its ownership as it is owned by The Belfast Unemployed Resource Centre. The Resource Centre's managers had always relied on various grants to fund its work, when in the mid ninties, they came up with the idea of generating some of their own funds by going into business... And why not a pub! John Hewitt, the late poet, socialist and Freeman of Belfast officially opened the Resource Centre on Mayday 1983, hence the name of the bar. ",
+        'thumb': "assets/img/hotel/thumb/john.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Quality of Service",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Quality of Food",
+                'score': 64
+            }
+        ]
+    }
+]

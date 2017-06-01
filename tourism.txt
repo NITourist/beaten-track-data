@@ -1,0 +1,192 @@
+activities = [
+    {
+        'id': 1,
+        'name': "Game of Thrones Tour -Pickup",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £
+        'location': {
+            'lat': 54.5986717,
+            'lon': -5.92427,
+            'distance': 3.2
+        },
+        'address': "81-85 Chichester Streeet",
+        'description': "Join  an exciting bus tour to visit the home of your favourite characters from the hit TV Show ",
+        'location_text': "Welcome to Game of Thrones Tours. The epic HBO series is filmed in stunningly beautiful places, most of which are remote and hard to find. We trek you deep into old growth forests, along wild sea cliffs, across rocky beaches, into caves and crumbling medieval ruins. We have Stark and Iron Born cloaks, swords, shields and helms available for use, at no extra cost. Experience the magic. Go all the way, to the real Westeros.",
+        'thumb': "assets/img/hotel/thumb/logo_black.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Family Friendly",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Weather Dependant",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 2,
+        'name': "Grand Opera House",
+        'rating': 4.2,
+        'stars': 4,
+        'price': ££
+        'location': {
+            'lat': 54.595358,
+            'lon': -5.935049,
+            'distance': 3.2
+        },
+        'address': "2-4 Great Victoria Street",
+        'description': "Come enjoy some arts and culture in Belfast's Oldest Theatre ",
+        'location_text': "The Grand Opera House is Northern Ireland's premier theatre, presenting an outstanding programme of drama, dance, opera, comedy, musicals and family shows. ",
+        'thumb': "assets/img/hotel/thumb/goh.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Family Friendly",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Weather Dependant",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 3,
+        'name': "Belfast Botanical Gardens",
+        'rating': 4.2,
+        'stars': 4,
+        'price': FREE,
+        'location': {
+            'lat': 54.5821636,
+            'lon': -5.9317514,
+            'distance': 3.2
+        },
+        'address': "College Park E, Belfast BT7 1LP ",
+        'description': "Elaborate public garden dating to 1828, featuring tropical species & an elegant domed conservatory ",
+        'location_text': "First established in 1828, the gardens have been enjoyed as a public park by the people of Belfast since 1895. There is an extensive rose garden and long herbaceous borders and the tree enthusiast can seek out the rare oaks planted in the 1880s, including the hornbeam-leafed oak. Situated near Queens University Belfast, the Botanic Gardens is an important part of Belfast’s Victorian heritage and a popular meeting place for residents, students and tourists.",
+        'thumb': "assets/img/hotel/thumb/botanic_gardens.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Family Friendly",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Weather Dependant",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 4,
+        'name': "Belfast Zoo",
+        'rating': 4.2,
+        'stars': 4,
+        'price': £,
+        'location': {
+            'lat': 54.657823,
+            'lon': -5.94363,
+            'distance': 3.2
+        },
+        'address': "Antrim Rd, Belfast BT36 7PN ",
+        'description': "Zoo with a walk-through rainforest house that is active in wildlife conservation and breeding. ",
+        'location_text': "This family-friendly Hanoi hotel is located in the business district, within 1 mi (2 km) of Thu Le Park, Vietnam Museum of Ethnology, and Giang Vo Exhibition Center. Ho Chi Minh Mausoleum and Temple of Literature are also within 2 mi (3 km). ",
+        'thumb': "assets/img/hotel/thumb/zoo.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Family Friendly",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Weather Dependant",
+                'score': 64
+            }
+        ]
+    },
+        {
+        'id': 5,
+        'name': "W5",
+        'rating': 4.2,
+        'stars': 4,
+        'price': 125,
+        'location': {
+            'lat': 54.6047613,
+            'lon': -5.9162111,
+            'distance': 3.2
+        },
+        'address': "The Odyssey, 2 Queens Quay, Belfast BT3 9QQ ",
+        'description': "Interactive science centre with climbing & robot attractions, plus temporary exhibits & daily demos.",
+        'location_text': "With over 250 amazing interactive exhibits in four incredible exhibition areas, W5 provides a unique experience as well as fantastic fun for visitors of all ages. In addition to permanent exhibits, W5 also presents a changing programme of large and small scale temporary exhibitions and events. We have a daily programme of live science demonstrations and shows throughout the day! ",
+        'thumb': "assets/img/hotel/thumb/w5.jpg",
+        'scores': [
+            {
+                'id': 1,
+                'name': "Would Recommend",
+                'score': 98
+            },
+            {
+                'id': 2,
+                'name': "Family Friendly",
+                'score': 80
+            },
+            {
+                'id': 3,
+                'name': "Accessible to all",
+                'score': 71
+            },
+            {
+                'id': 4,
+                'name': "Weather Dependant",
+                'score': 64
+            }
+        ]
+    }
+]
